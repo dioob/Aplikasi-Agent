@@ -8,8 +8,9 @@ Fitur:
 - Membuat list dengan local SQLite (draft dan history)
 - Session Manager
 - Google Map (marker & location)
-
+- Bahasa (inggris & indonesia)
+- dll
 
 <p align="center">
-  <img src="https://github.com/dioob/Aplikasi-Agent/blob/master/fama.jpg">
+  <img src="https://github.com/dioob/Aplikasi-Agent/blob/main/fama.jpg">
 </p>
