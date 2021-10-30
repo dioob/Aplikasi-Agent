@@ -1,6 +1,6 @@
 # Aplikasi Reporting
 
-Membuat aplikasi untuk keperluan reporting di tempat. (Hanya gambaran karena privasi)
+Membuat aplikasi untuk keperluan reporting di tempat. (Hanya gambaran)
 
 Fitur:
 - Kirim report ke server menggunakan Retrofit2 untuk akses ke API
