@@ -12,5 +12,5 @@ Fitur:
 - dll
 
 <p align="center">
-  <img src="https://github.com/dioob/Aplikasi-Agent/blob/main/fama.jpg">
+  <img src="https://github.com/dioob/Aplikasi-Reporting/blob/main/fama.jpg">
 </p>
